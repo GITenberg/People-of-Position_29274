@@ -5,7 +5,7 @@ contributor:
     agent_name: Boehm, H. Richard
     alias: Boehm, Henry Richard
     birthdate: 1871
-    deathdate: &id001 1914
+    deathdate: 1914
     gutenberg_agent_id: '33471'
     url: http://www.gutenberg.org/2009/agents/33471
 covers:
@@ -15,10 +15,12 @@ creator:
   author:
     agent_name: Hyatt, Stanley Portal
     birthdate: 1877
-    deathdate: *id001
+    deathdate: 1914
     gutenberg_agent_id: '33808'
     url: http://www.gutenberg.org/2009/agents/33808
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29274#People-of-Position
 gutenberg_issued: '2009-06-30'
 gutenberg_type: Text
 identifiers:
